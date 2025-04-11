@@ -18,7 +18,7 @@ The lid-driven cavity is a classical problem in fluid dynamics where a square ca
 
 ## 📁 File
 
-- `lid_driven_cavity_python_simple.py`  
+- `PythonApplication4.py`  
   → Main Python script for the simulation
 
 ---
